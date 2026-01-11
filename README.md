@@ -19,6 +19,6 @@ This demo is not licensed for commercial use.
 The complete website, additional pages, and customization
 are available upon request.
 
-📞Contact if interested:
+## 📞Contact if interested:
 - GitHub: @SirongaDeOrora
 - Email: ethansirengo2.it@gmail.com or sirongadeorora@gmail.com
